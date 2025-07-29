@@ -6,33 +6,33 @@ Welcome to my digital cave of code thoughts — a place where things **worked on
 
 This is my ongoing, unapologetically opinionated collection of:
 
-- 📝 **Things I’ve learned** through practice, error messages, Stack Overflow rabbit holes, and hard-won victories.
-- 💬 **Opinions** based on real-world experience — no theory without keyboard bruises.
-- 🤯 **Ideas** — some thoughtful, some bizarre, all worth exploring (at least once).
+- 📝 **Things I have learned**: through practice, error messages, Stack Overflow rabbit holes, and hard-won victories.
+- 💬 **Opinions**: based on real-world experience, no theory without keyboard bruises.
+- 🤯 **Ideas**: some thoughtful, some bizarre, all worth exploring (at least once).
 
 I use this space to:
-- Reflect on coding habits and lessons
-- Write mini-essays or dev logs
-- Brain-dump potential project or feature ideas
-- Track my evolution as a developer
+- Reflect on coding habits and lessons.
+- Write mini-essays or dev logs.
+- Brain-dump potential project or feature ideas.
+- Track my evolution as a developer.
 
 ## ✍️ Why the name?
 
 Because half of the stuff here probably:
-- Was fixed by a desperate `printf("why\n");`, or `cout << "What is happening?";` followed by a matcha (with milk or not, better with almond flavor)
-- Broke right after I committed it
-- Only worked after a magical incantation and matcha
+- Was fixed by a desperate `printf("why\n");`, or `cout << "What is happening?";` followed by a matcha (with milk or not, better with almond flavor).
+- Broke right after I committed it.
+- Only worked after a magical incantation and matcha.
 
 ...but hey, it worked **on my machine**. 😎
 
-## 📚 Topics I’ll Cover
+## 📚 Topics I will Cover
 
-- Dev logs and "a-ha!" moments
-- Opinions on tools, languages, practices
-- Theories and patterns I’m testing in real projects
-- Sketchy but possibly brilliant ideas
-- Mistakes I’ve made (and learned from)
-- Bonus: The occasional meme reference
+- Dev logs and "a-ha!" moments.
+- Opinions on tools, languages, practices.
+- Theories and patterns I’m testing in real projects.
+- Sketchy but possibly brilliant ideas.
+- Mistakes I’ve made (and learned from).
+- Bonus: The occasional meme reference.
 
 ## ⚠️ Disclaimer
 
@@ -44,4 +44,4 @@ Open a terminal 💻, sip some matcha 🍵 (milk optional 🥛, almond flavor re
 ---
 Thanks for reading 📚.
 
-**-Mine**
+**Mine**
