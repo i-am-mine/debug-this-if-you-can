@@ -19,7 +19,7 @@ I use this space to:
 ## ✍️ Why the name?
 
 Because half of the stuff here probably:
-- Was fixed by a desperate `printf("why\n")`, or `cout << "What is happening?"` followed by a matcha (with milk or not, better with almond flavor)
+- Was fixed by a desperate `printf("why\n");`, or `cout << "What is happening?";` followed by a matcha (with milk or not, better with almond flavor)
 - Broke right after I committed it
 - Only worked after a magical incantation and matcha
 
@@ -39,6 +39,9 @@ Because half of the stuff here probably:
 - Some content may age like wine. Some like milk. (Did you get this? 😎)
 - All code is tested on **my machine**. No refunds.
 
----
+Open a terminal 💻, sip some matcha 🍵 (milk optional 🥛, almond flavor recommended 🥜), and enjoy the journey 🚀.
 
-Pull up a terminal, sip some matcha (milk optional, almond flavor recommended), and enjoy the journey. 🚀
+---
+Thanks for reading 📚.
+
+**-Mine**
