@@ -37,7 +37,7 @@ There are two main ways these formulas come into play:
 - But… you cannot always be sure it generalizes well unless you prove it or have a luck.
 
 # TODO here
-- rotate (shift left/right) a string
+- rotate (shift left/right) a string [link1](https://leetcode.com/problems/rotate-string/description/), [link2](https://leetcode.com/problems/rotate-array/description/)
 - Moving problem
 
 
@@ -49,7 +49,7 @@ There are two main ways these formulas come into play:
 
 # TODO here
 - Fibonacci
-- XOR
+- [XOR](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/?envType=daily-question&envId=2025-07-18)
 
 Ultimately, using math to balance Speed and Memory is like finding a hidden shortcut in the forest:  
 You need the map 🗺️ (theory), the path 🛤️ (insight), and the stamina 💪 (practice).
