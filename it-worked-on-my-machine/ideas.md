@@ -1,12 +1,13 @@
 ## Potential ideas
 
-- New repo: some terminologies should be known, not a must-have, but good-to-have / should-have
+- New folder: some terminologies should be known, not a must-have, but good-to-have / should-have
 	- Anagram (use hashtable, set, ...)
 	- Palindrome
 
 
-- New repo: some tips to optimize time
-	- Use math
+- New folder: some tips to optimize time
+	- Use math:
+		- Add wonderful formula very useful
 	- Consider special/edge cases to reduce case execution: [prob1](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true)
 
 - Game theory
