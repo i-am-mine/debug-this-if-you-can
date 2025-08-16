@@ -38,7 +38,9 @@ There are two main ways these formulas come into play:
 
 # TODO here
 - rotate (shift left/right) a string [link1](https://leetcode.com/problems/rotate-string/description/), [link2](https://leetcode.com/problems/rotate-array/description/)
-- Moving problem
+- Moving problem in test technique
+- replace 6 by 9 [link](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16)
+
 
 
 ### When the formula is complex, or needs effort to figure out:
