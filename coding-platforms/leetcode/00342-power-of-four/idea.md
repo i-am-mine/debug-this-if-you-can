@@ -1,4 +1,4 @@
-# 231. Power of Two
+# 342. Power of Four
 
 ## 🔍 Idea
 
