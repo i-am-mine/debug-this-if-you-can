@@ -62,6 +62,7 @@ find_gtest() {
       if [ -n "$GTEST_INCLUDE_DIR" ] && [ -n "$GTEST_LIB_DIR" ]; then
         GTEST_LIB_FLAGS=($lf -pthread)
         echo "📦 Found GoogleTest via pkg-config"
+        echo "--------------------------"
         return 0
       fi
     fi
@@ -183,6 +184,7 @@ if [ "${#GTEST_LIB_FILES[@]}" -gt 0 ]; then
 else
   echo "   flags  : ${GTEST_LIB_FLAGS[*]}"
 fi
+echo "--------------------------"
 
 CXXFLAGS=(-std=c++17 -I"$GTEST_INCLUDE_DIR")
 LDFLAGS=(-pthread)
@@ -203,14 +205,12 @@ for SOL in sol*.cpp; do
   "$CXX" "${CXXFLAGS[@]}" "$SOL" "$TEST_FILE" -o "$OUT" "${LDFLAGS[@]}"
   { set +x; } 2>/dev/null
 
+  echo "--------------------------"
   echo "🚀 Running tests for $BASENAME"
   "$OUT"
   echo "✅ Done with $BASENAME"
-  echo "--------------------------"
+  echo "===================================================="
 done
-
-
-
 
 # #!/bin/bash
 
