@@ -207,7 +207,9 @@ for SOL in sol*.cpp; do
 
   echo "--------------------------"
   echo "🚀 Running tests for $BASENAME"
-  "$OUT"
+  "$OUT" || {
+    echo "❌ Tests failed for $BASENAME (continuing)"
+  }
   echo "✅ Done with $BASENAME"
   echo "===================================================="
 done

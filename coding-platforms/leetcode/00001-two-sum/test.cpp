@@ -23,7 +23,7 @@ struct TwoSumTestCase {
 
 class TwoSumTests : public ::testing::TestWithParam<TwoSumTestCase> {};
 
-TEST_P(TwoSumTests, MultipleCases) {
+TEST_P(TwoSumTests, Examples) {
     auto param = GetParam();
     auto nums_copy = param.nums;  // named vector for binding
     EXPECT_THAT(twoSum(nums_copy, param.target),
