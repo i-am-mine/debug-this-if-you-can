@@ -6,16 +6,14 @@
 
 Let’s analyze by hand with a simple case:
 
-- For a sequence of **3 zeros** `[0, 0, 0]`, all subarrays consisting only of zeros are:
-[0] → 3 occurrences
-[0, 0] → 2 occurrences
-[0, 0, 0] → 1 occurrence
+- For a sequence of **3 zeros** `[0, 0, 0]`, all subarrays consisting only of zeros are:<br>
+`[0]` → 3 occurrences<br>
+`[0, 0]` → 2 occurrences<br>
+`[0, 0, 0]` → 1 occurrence
 
 👉 Total = **1 + 2 + 3 = 6**
 
-This matches the formula: `sum`$= \frac{n(n+1)}{2}$
-
-where `n` = length of the consecutive zero sequence.
+This matches the formula: `sum`$= \frac{n(n+1)}{2}$, where `n` = length of the consecutive zero sequence.
 
 
 - Testing with a longer block, e.g. **6 zeros**, the formula still holds.
@@ -73,10 +71,10 @@ return result;
 
 ## ⏱️ Complexity
 For both approaches
-- **Time: O(n)**
+- **Time: O(n)**<br>
   We traverse the array once, and for each element we do only constant-time work (increment, reset, or add).
 
-- **Space: O(1)**
+- **Space: O(1)**<br>
   We only use a few integer variables (`result`, `zeroSequenceLength`).
 
 ---
