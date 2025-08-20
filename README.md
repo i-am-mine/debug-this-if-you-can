@@ -2,7 +2,7 @@
 
 Welcome to a multi-faceted playground of code, thoughts, and challenges - all under one roof.
 
-This reposiroty (repo) is a bit like my coding journal, toolbox, and playground rolled into one. It contains:
+This repository (repo) is a bit like my coding journal, toolbox, and playground rolled into one. It contains:
 
 - 📓 [**it-worked-on-my-machine**](https://github.com/minh1505/debug-this-if-you-can/tree/main/it-worked-on-my-machine)
   My personal takes, experiences, and opinions on coding topics and best practices.
