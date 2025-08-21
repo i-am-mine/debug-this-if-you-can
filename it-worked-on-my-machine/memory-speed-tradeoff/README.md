@@ -1,9 +1,9 @@
-# Memory vs Speed Trade-offs ⚖️
+# Memory 💾 vs ⚡️ Speed Trade-offs ⚖️
 
 ## The Big Questions
 
 - **What are the trade-offs between memory usage and speed?**  
-- **How do you optimize a C++ program for performance?**  
+- **How do you optimize a `C++` program for performance?**
 - **Is it possible to have the best of both worlds: speed and low memory?**
 
 ---
