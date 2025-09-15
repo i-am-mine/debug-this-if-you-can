@@ -9,11 +9,7 @@ using namespace std;
 int canBeTypedWords(string text, string brokenLetters) {
     int nWords = 0;
     bool isBroken = false;
-    unordered_set<char> brokenLettersSet;
-
-    for(char c: brokenLetters){
-        brokenLettersSet.insert(c);
-    }
+    unordered_set<char> brokenLettersSet(brokenLetters.begin(), brokenLetters.end());
 
     for(char c: text){
         if (!isBroken) {
