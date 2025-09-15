@@ -13,12 +13,3 @@
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant)  | [🔍](03541-find-most-frequent-vowel-and-consonant/idea.md)      |   [Sol1](03541-find-most-frequent-vowel-and-consonant/sol1.cpp)     |    $O(n)$ | $O(C)$ |        |
 
 
- <!-- min$(m,n)^3)$ -->
-## Medium
-
-| #   | Problem title | Ideas | Solution | Time | Space | Others |
-| --- | ------------- |:-----:| :--------:|:----:|:-----:| ------ |
-| 1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)       |   [🔍](01277-count-square-submatrices-with-all-ones/idea.md)    |    [Sol1](01277-count-square-submatrices-with-all-ones/sol1.cpp)     |       $O(n)$        |      $O(1)$      |        |
-| 2348| [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)       |   [🔍](02348-number-of-zero-filled-subarrays/idea.md)    |    [Sol1](02348-number-of-zero-filled-subarrays/sol1.cpp)<br>[**Sol2<sup>*</sup>**](02348-number-of-zero-filled-subarrays/sol2.cpp)     |       $O(n)$<br>$O(n)$        |      $O(1)$<br>$O(1)$      |        |
-
-
