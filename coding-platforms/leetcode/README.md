@@ -18,7 +18,7 @@
 
 | #   | Problem title | Ideas | Solution | Time | Space | Others |
 | --- | ------------- |:-----:| :--------:|:----:|:-----:| ------ |
-| 1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)       |   [🔍](01277-count-square-submatrices-with-all-ones/idea.md)    |    [Sol1](01277-count-square-submatrices-with-all-ones/sol1.cpp)     |       $O(mn$ min$(m,n)^3)$        |      $O(1)$      |        |
+| 1277| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones)       |   [🔍](01277-count-square-submatrices-with-all-ones/idea.md)    |    [Sol1](01277-count-square-submatrices-with-all-ones/sol1.cpp)     |       $O(mn$        |      $O(1)$      |        |
 | 2348| [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)       |   [🔍](02348-number-of-zero-filled-subarrays/idea.md)    |    [Sol1](02348-number-of-zero-filled-subarrays/sol1.cpp)<br>[**Sol2<sup>*</sup>**](02348-number-of-zero-filled-subarrays/sol2.cpp)     |       $O(n)$<br>$O(n)$        |      $O(1)$<br>$O(1)$      |        |
 
 
