@@ -12,9 +12,10 @@ bool isPowerOfTwo(int n);
 bool isPowerOfThree(int n);
 bool isPowerOfFour(int n);
 
+int canBeTypedWords(string text, string brokenLetters)
 int countSquares(std::vector<std::vector<int>>& matrix);
-int maxFreqSum(string s);
 int findClosest(int x, int y, int z);
+int maxFreqSum(string s);
 
 long long zeroFilledSubarray(std::vector<int>& nums);
 
