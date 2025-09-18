@@ -1,12 +1,4 @@
-#pragma once
-#include <iostream>
-#include <vector>
-#include <unordered_set>
-#include <unordered_map>
-#include <algorithm>
-#include <fstream>
-#include <sstream>
-#include <string>
+#include <bits/stdc++.h>
 
 bool isPowerOfTwo(int n);
 bool isPowerOfThree(int n);
