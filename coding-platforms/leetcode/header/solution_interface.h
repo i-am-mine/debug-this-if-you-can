@@ -8,6 +8,7 @@ int canBeTypedWords(string text, string brokenLetters)
 int countSquares(std::vector<std::vector<int>>& matrix);
 int findClosest(int x, int y, int z);
 int maxFreqSum(string s);
+int countStudents(vector<int>& students, vector<int>& sandwiches)
 
 long long zeroFilledSubarray(std::vector<int>& nums);
 
