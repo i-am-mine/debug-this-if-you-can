@@ -15,3 +15,4 @@ long long zeroFilledSubarray(std::vector<int>& nums);
 void rotate(std::vector<int>& nums, int k);
 
 std::vector<int> twoSum(std::vector<int>& nums, int target);
+std::vector<int> getNoZeroIntegers(int n)
