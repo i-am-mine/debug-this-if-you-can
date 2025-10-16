@@ -23,6 +23,8 @@ int lengthOfLongestSubstring(string s);
 int romanToInt(string s);
 int removeElement(std::vector<int>& nums, int val);
 int removeDuplicates(std::vector<int>& nums);
+int strStr(string haystack, string needle);
+int searchInsert(vector<int>& nums, int target);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 
@@ -32,5 +34,6 @@ void rotate(std::vector<int>& nums, int k);
 
 std::vector<int> twoSum(std::vector<int>& nums, int target);
 std::vector<int> getNoZeroIntegers(int n);
+bool isValidSudoku(std::vector<std::vector<char>>& board);
 
 string longestCommonPrefix(vector<string>& strs);
