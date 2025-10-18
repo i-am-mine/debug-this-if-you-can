@@ -13,6 +13,7 @@ bool isPowerOfThree(int n);
 bool isPowerOfFour(int n);
 bool isPalindrome(int x);
 bool isValid(string s);
+bool isValidSudoku(std::vector<std::vector<char>>& board);
 
 int canBeTypedWords(string text, string brokenLetters);
 int countSquares(std::vector<std::vector<int>>& matrix);
@@ -25,8 +26,10 @@ int removeElement(std::vector<int>& nums, int val);
 int removeDuplicates(std::vector<int>& nums);
 int strStr(string haystack, string needle);
 int searchInsert(vector<int>& nums, int target);
+int lengthOfLastWord(string s);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
+ListNode* rotateRight(ListNode* head, int k);
 
 long long zeroFilledSubarray(std::vector<int>& nums);
 
@@ -34,6 +37,6 @@ void rotate(std::vector<int>& nums, int k);
 
 std::vector<int> twoSum(std::vector<int>& nums, int target);
 std::vector<int> getNoZeroIntegers(int n);
-bool isValidSudoku(std::vector<std::vector<char>>& board);
+std::vector<int> plusOne(std::vector<int>& digits);
 
-string longestCommonPrefix(vector<string>& strs);
+string longestCommonPrefix(std::vector<string>& strs);
