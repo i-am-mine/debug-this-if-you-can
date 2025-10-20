@@ -25,8 +25,9 @@ int romanToInt(string s);
 int removeElement(std::vector<int>& nums, int val);
 int removeDuplicates(std::vector<int>& nums);
 int strStr(string haystack, string needle);
-int searchInsert(vector<int>& nums, int target);
+int searchInsert(std::vector<int>& nums, int target);
 int lengthOfLastWord(string s);
+int finalValueAfterOperations(std::vector<string>& operations);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
