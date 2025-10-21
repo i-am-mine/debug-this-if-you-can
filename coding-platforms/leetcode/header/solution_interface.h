@@ -28,6 +28,8 @@ int strStr(string haystack, string needle);
 int searchInsert(std::vector<int>& nums, int target);
 int lengthOfLastWord(string s);
 int finalValueAfterOperations(std::vector<string>& operations);
+int mySqrt(int x);
+int climbStairs(int n);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
@@ -41,3 +43,7 @@ std::vector<int> getNoZeroIntegers(int n);
 std::vector<int> plusOne(std::vector<int>& digits);
 
 string longestCommonPrefix(std::vector<string>& strs);
+string addBinary(string a, string b);
+
+
+
