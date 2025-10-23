@@ -14,6 +14,7 @@ bool isPowerOfFour(int n);
 bool isPalindrome(int x);
 bool isValid(string s);
 bool isValidSudoku(std::vector<std::vector<char>>& board);
+bool hasSameDigits(string s);
 
 int canBeTypedWords(string text, string brokenLetters);
 int countSquares(std::vector<std::vector<int>>& matrix);
