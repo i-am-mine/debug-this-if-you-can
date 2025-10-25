@@ -31,6 +31,7 @@ int lengthOfLastWord(string s);
 int finalValueAfterOperations(std::vector<string>& operations);
 int mySqrt(int x);
 int climbStairs(int n);
+int totalMoney(int n);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
