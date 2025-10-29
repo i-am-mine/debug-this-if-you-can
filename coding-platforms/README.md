@@ -4,10 +4,7 @@ Welcome to my personal **arena of algorithms**, a collection of coding problems 
 
 - 🧩 LeetCode  
 - 🎮 CodinGame  
-- 📘 HackerRank  
-- 🧠 Codeforces  
-- ✍️ AtCoder  
-- ...and more
+- 📘 HackerRank
 
 Each subfolder is dedicated to a specific platform, with my solutions and notes for individual problems.
 
