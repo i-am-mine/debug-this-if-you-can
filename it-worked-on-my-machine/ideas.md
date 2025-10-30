@@ -3,6 +3,7 @@
 - New folder: some terminologies should be known, not a must-have, but good-to-have / should-have
 	- Anagram (use hashtable, set, ...)
 	- Palindrome
+	- Kaprekar number
 
 
 - New folder: some tips to optimize time
