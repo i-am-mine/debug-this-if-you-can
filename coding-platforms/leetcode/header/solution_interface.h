@@ -43,6 +43,7 @@ void rotate(std::vector<int>& nums, int k);
 std::vector<int> twoSum(std::vector<int>& nums, int target);
 std::vector<int> getNoZeroIntegers(int n);
 std::vector<int> plusOne(std::vector<int>& digits);
+std::vector<int> getSneakyNumbers(std::vector<int>& nums);
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
