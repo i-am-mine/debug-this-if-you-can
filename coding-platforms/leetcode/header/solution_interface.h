@@ -35,6 +35,7 @@ int totalMoney(int n);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
+ListNode* modifiedList(std::vector<int>& nums, ListNode* head);
 
 long long zeroFilledSubarray(std::vector<int>& nums);
 
