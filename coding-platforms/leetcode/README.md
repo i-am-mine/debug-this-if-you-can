@@ -22,3 +22,8 @@
 | 2348| [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays)       |   [🔍](02348-number-of-zero-filled-subarrays/idea.md)    |    [Sol1](02348-number-of-zero-filled-subarrays/sol1.cpp)<br>[**Sol2<sup>*</sup>**](02348-number-of-zero-filled-subarrays/sol2.cpp)     |       $O(n)$<br>$O(n)$        |      $O(1)$<br>$O(1)$      |        |
 
 
+
+
+
+## Hard
+
