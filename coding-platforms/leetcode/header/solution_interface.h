@@ -8,6 +8,15 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode() : val(0), left(nullptr), right(nullptr) {}
+    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+};
+
 bool isPowerOfTwo(int n);
 bool isPowerOfThree(int n);
 bool isPowerOfFour(int n);
@@ -15,6 +24,7 @@ bool isPalindrome(int x);
 bool isValid(string s);
 bool isValidSudoku(std::vector<std::vector<char>>& board);
 bool hasSameDigits(string s);
+bool hasPathSum(TreeNode* root, int targetSum);
 
 int canBeTypedWords(string text, string brokenLetters);
 int countSquares(std::vector<std::vector<int>>& matrix);
