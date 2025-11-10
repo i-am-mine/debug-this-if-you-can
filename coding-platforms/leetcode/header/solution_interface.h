@@ -25,6 +25,7 @@ bool isValid(string s);
 bool isValidSudoku(std::vector<std::vector<char>>& board);
 bool hasSameDigits(string s);
 bool hasPathSum(TreeNode* root, int targetSum);
+bool isAnagram(string s, string t);
 
 int canBeTypedWords(string text, string brokenLetters);
 int countSquares(std::vector<std::vector<int>>& matrix);
