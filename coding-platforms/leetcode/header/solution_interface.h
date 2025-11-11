@@ -58,6 +58,9 @@ std::vector<int> getNoZeroIntegers(int n);
 std::vector<int> plusOne(std::vector<int>& digits);
 std::vector<int> getSneakyNumbers(std::vector<int>& nums);
 std::vector<std::vector<int>> generate(int numRows);
+std::vector<int> countBits(int n);
+std::vector<int> intersection(std::vector<int>& nums1, std::vector<int>& nums2);
+std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2);
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
