@@ -44,6 +44,7 @@ int mySqrt(int x);
 int climbStairs(int n);
 int totalMoney(int n);
 int countOperations(int num1, int num2);
+int titleToNumber(string columnTitle);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
