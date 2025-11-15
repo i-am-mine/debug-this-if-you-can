@@ -45,6 +45,7 @@ int climbStairs(int n);
 int totalMoney(int n);
 int countOperations(int num1, int num2);
 int titleToNumber(string columnTitle);
+int majorityElement(std::vector<int>& nums);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
