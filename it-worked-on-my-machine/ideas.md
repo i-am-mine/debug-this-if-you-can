@@ -10,6 +10,7 @@
 	- Use math:
 		- Add wonderful formula very useful
 	- Consider special/edge cases to reduce case execution: [prob1](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=true)
+	- Bit manipulations: [prob1](https://leetcode.com/problems/keep-multiplying-found-values-by-two/solutions/7358723/find-the-missing-power-of-two-bit-manipu-1f3m)
 
 - Game theory
 	- Generalize and guess the frequence of results => design an algo
