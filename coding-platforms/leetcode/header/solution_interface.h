@@ -49,6 +49,7 @@ int countOperations(int num1, int num2);
 int titleToNumber(string columnTitle);
 int majorityElement(std::vector<int>& nums);
 int numSub(string s);
+int findFinalValue(std::vector<int>& nums, int original);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
