@@ -51,6 +51,7 @@ int majorityElement(std::vector<int>& nums);
 int numSub(string s);
 int findFinalValue(std::vector<int>& nums, int original);
 int intersectionSizeTwo(std::vector<std::vector<int>>& intervals);
+int countPalindromicSubsequence(string s);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
