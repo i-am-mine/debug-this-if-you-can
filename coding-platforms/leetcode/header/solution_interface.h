@@ -71,6 +71,7 @@ std::vector<std::vector<int>> generate(int numRows);
 std::vector<int> countBits(int n);
 std::vector<int> intersection(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2);
+std::vector<bool> prefixesDivBy5(std::vector<int>& nums);
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
