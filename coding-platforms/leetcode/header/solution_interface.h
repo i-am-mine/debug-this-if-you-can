@@ -54,6 +54,7 @@ int intersectionSizeTwo(std::vector<std::vector<int>>& intervals);
 int countPalindromicSubsequence(string s);
 int minimumOperations(std::vector<int>& nums);
 int maxSumDivThree(std::vector<int>& nums);
+int smallestRepunitDivByK(int k);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
