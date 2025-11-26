@@ -76,6 +76,7 @@ std::vector<bool> prefixesDivBy5(std::vector<int>& nums);
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
+string convertToTitle(int columnNumber);
 
 
 
