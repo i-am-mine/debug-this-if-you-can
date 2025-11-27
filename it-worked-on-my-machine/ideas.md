@@ -4,7 +4,7 @@
 	- Anagram (use hashtable, set, ...)
 	- Palindrome
 	- Kaprekar number
-
+	- Repunit (Repeated Unit) : integer number whose all digits are 1
 
 - New folder: some tips to optimize time
 	- Use math:
