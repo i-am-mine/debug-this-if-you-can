@@ -61,6 +61,7 @@ ListNode* rotateRight(ListNode* head, int k);
 ListNode* modifiedList(std::vector<int>& nums, ListNode* head);
 
 long long zeroFilledSubarray(std::vector<int>& nums);
+long long maxSubarraySum(std::vector<int>& nums, int k);
 
 void rotate(std::vector<int>& nums, int k);
 
