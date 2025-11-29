@@ -56,6 +56,7 @@ int minimumOperations(std::vector<int>& nums);
 int maxSumDivThree(std::vector<int>& nums);
 int smallestRepunitDivByK(int k);
 int maxKDivisibleComponents(int n, std::vector<std::vector<int>>& edges, std::vector<int>& values, int k);
+int minOperations(std::vector<int>& nums, int k);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
