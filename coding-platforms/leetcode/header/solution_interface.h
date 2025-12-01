@@ -65,6 +65,7 @@ ListNode* deleteDuplicates(ListNode* head);
 
 long long zeroFilledSubarray(std::vector<int>& nums);
 long long maxSubarraySum(std::vector<int>& nums, int k);
+long long maxRunTime(int n, std::vector<int>& batteries);
 
 void rotate(std::vector<int>& nums, int k);
 
