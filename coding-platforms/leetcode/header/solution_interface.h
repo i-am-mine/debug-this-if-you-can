@@ -57,6 +57,7 @@ int maxSumDivThree(std::vector<int>& nums);
 int smallestRepunitDivByK(int k);
 int maxKDivisibleComponents(int n, std::vector<std::vector<int>>& edges, std::vector<int>& values, int k);
 int minOperations(std::vector<int>& nums, int k);
+int countTrapezoids(std::vector<std::vector<int>>& points);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
@@ -78,6 +79,7 @@ std::vector<int> countBits(int n);
 std::vector<int> intersection(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<bool> prefixesDivBy5(std::vector<int>& nums);
+
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
