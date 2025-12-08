@@ -60,6 +60,7 @@ int minOperations(std::vector<int>& nums, int k);
 int countTrapezoids(std::vector<std::vector<int>>& points);
 int countCollisions(string directions);
 int countOdds(int low, int high);
+int countTriples(int n);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
