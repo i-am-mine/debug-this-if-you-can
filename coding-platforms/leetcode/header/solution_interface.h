@@ -63,6 +63,7 @@ int countOdds(int low, int high);
 int countTriples(int n);
 int specialTriplets(std::vector<int>& nums);
 int countPermutations(std::vector<int>& complexity);
+int countCoveredBuildings(int n, std::vector<std::vector<int>>& buildings);
 
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
