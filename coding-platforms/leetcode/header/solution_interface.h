@@ -85,6 +85,7 @@ std::vector<int> countBits(int n);
 std::vector<int> intersection(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<bool> prefixesDivBy5(std::vector<int>& nums);
+std::vector<string> validateCoupons(std::vector<string>& code, std::vector<string>& businessLine, std::vector<bool>& isActive);
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
