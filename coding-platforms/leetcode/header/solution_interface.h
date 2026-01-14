@@ -68,6 +68,8 @@ int minDeletionSize(std::vector<string>& strs);
 int sumFourDivisors(std::vector<int>& nums);
 int maxLevelSum(TreeNode* root);
 
+double separateSquares(std::vector<std::vector<int>>& squares);
+
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2);
 ListNode* rotateRight(ListNode* head, int k);
 ListNode* modifiedList(std::vector<int>& nums, ListNode* head);
