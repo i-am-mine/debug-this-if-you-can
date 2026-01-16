@@ -67,6 +67,7 @@ int countCoveredBuildings(int n, std::vector<std::vector<int>>& buildings);
 int minDeletionSize(std::vector<string>& strs);
 int sumFourDivisors(std::vector<int>& nums);
 int maxLevelSum(TreeNode* root);
+int arrangeCoins(int n);
 
 double separateSquares(std::vector<std::vector<int>>& squares);
 
