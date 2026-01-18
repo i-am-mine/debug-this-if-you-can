@@ -97,6 +97,7 @@ std::vector<int> findAllPeople(int n, std::vector<std::vector<int>>& meetings, i
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
 string convertToTitle(int columnNumber);
+string addStrings(string num1, string num2);
 
 
 
