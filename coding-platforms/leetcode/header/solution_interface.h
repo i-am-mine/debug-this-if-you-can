@@ -68,6 +68,7 @@ int minDeletionSize(std::vector<string>& strs);
 int sumFourDivisors(std::vector<int>& nums);
 int maxLevelSum(TreeNode* root);
 int arrangeCoins(int n);
+int minimumPairRemoval(std::vector<int>& nums)
 
 double separateSquares(std::vector<std::vector<int>>& squares);
 
@@ -93,6 +94,7 @@ std::vector<int> intersect(std::vector<int>& nums1, std::vector<int>& nums2);
 std::vector<bool> prefixesDivBy5(std::vector<int>& nums);
 std::vector<string> validateCoupons(std::vector<string>& code, std::vector<string>& businessLine, std::vector<bool>& isActive);
 std::vector<int> findAllPeople(int n, std::vector<std::vector<int>>& meetings, int firstPerson);
+std::vector<string> fizzBuzz(int n)
 
 string longestCommonPrefix(std::vector<string>& strs);
 string addBinary(string a, string b);
