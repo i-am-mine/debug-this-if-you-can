@@ -68,7 +68,8 @@ int minDeletionSize(std::vector<string>& strs);
 int sumFourDivisors(std::vector<int>& nums);
 int maxLevelSum(TreeNode* root);
 int arrangeCoins(int n);
-int minimumPairRemoval(std::vector<int>& nums)
+int minimumPairRemoval(std::vector<int>& nums);
+int minimumPairRemovalii(vector<int>& nums)
 
 double separateSquares(std::vector<std::vector<int>>& squares);
 
