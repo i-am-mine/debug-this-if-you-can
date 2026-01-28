@@ -69,7 +69,8 @@ int sumFourDivisors(std::vector<int>& nums);
 int maxLevelSum(TreeNode* root);
 int arrangeCoins(int n);
 int minimumPairRemoval(std::vector<int>& nums);
-int minimumPairRemovalii(vector<int>& nums)
+int minimumPairRemovalii(vector<int>& nums);
+int minCost(std::vector<std::vector<int>>& grid, int k);
 
 double separateSquares(std::vector<std::vector<int>>& squares);
 
